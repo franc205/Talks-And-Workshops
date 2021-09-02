@@ -21,3 +21,8 @@ En esta parte se pueden encontrar los recursos de las charlas y workshops en las
 
 ## 2017
 - 404Zone - [Esteganografia: Ocultando datos a simple vista](https://docs.google.com/presentation/d/e/2PACX-1vSgI61uYgJ3sZLq7R4n7YDitGv2YvCP9yH6DGyIDYPWzZJbKAkq9a9Oj7DrsVCRDaNJ4eGQT5z8Gqu6/pub?start=false&loop=false&delayms=15000)
+
+# Feedback
+Si viste o participaste de una charla o Workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
+
+Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
