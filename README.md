@@ -34,6 +34,6 @@ En esta parte se pueden encontrar los recursos de las charlas y workshops en las
 - Ekoparty: Lockpickar Space - [Hacking RF for Physical Security](https://www.youtube.com/watch?v=tJIiYSNip00)
 
 # Feedback
-Si viste o participaste de una charla o Workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
+Si viste o participaste de una charla o workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
 
 Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
