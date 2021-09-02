@@ -7,6 +7,7 @@ En esta parte se pueden encontrar los recursos de las charlas y workshops en las
 - DragonJARCon - [Active Directory: Post Exploitation Attacks](https://docs.google.com/presentation/d/e/2PACX-1vS-PZ4BlYouygGxiIhKd2ccLJkG7NDBb0TVBYJwIsOFGOlPnohic0Gbn7HrtDFEyEXYBnLJn-5jUCsT/pub?start=true&loop=false&delayms=15000)
 - OWASP Latam Tour - [Understanding the Same-Origin Policy and CORS](https://docs.google.com/presentation/d/e/2PACX-1vS69esl9eAq1UNJr1gkSTJ24vmyBqdjSAUvr76Fe_2ebwFO1bLUifmOH3rHDNM4kxcthhWRsoWlMdLA/pub?start=true&loop=false&delayms=15000)
 - 8.8 Andina - [Hacking RF for Physical Security](https://docs.google.com/presentation/d/e/2PACX-1vRoFC-1l9pCeL0Iop-bZu-JqJYDvywdnbCBvK70zRh3BvDHopwoiFL68ua0hINOZYRVa4ageAq08JXS/pub?start=true&loop=false&delayms=15000)
+- Ekoparty: Summer Workshops - [Active Directory: Post Exploitation Attacks](https://docs.google.com/presentation/d/e/2PACX-1vTYYVcl7kLuwLxVZij3DdB2uiniN3g3bFgHK4MZWdCGkb9S7PVq9Q8Rg1_nKwQFt_gifkZngjJWtexV/pub?start=true&loop=false&delayms=15000)
 
 ## 2020
 - Ekoparty - [Active Directory: Post Exploitation Attacks](https://docs.google.com/presentation/d/e/2PACX-1vRBmHmty9CCgftXu1L4O2EBrvIKj5pVFqQFHm5rjrON7opm938SSEEP-zfUmWBZ6_MGCbHWcvBGRUIJ/pub?start=true&loop=false&delayms=15000)
