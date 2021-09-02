@@ -37,3 +37,10 @@ En esta parte se pueden encontrar los recursos de las charlas y workshops en las
 Si viste o participaste de una charla o workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
 
 Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
+
+# Contacto
+- Email: franc.c205@gmail.com
+- Twitter: @franc_205
+- Discord: franc205#2787
+- Discord 404Zone: https://discord.gg/CffZX5x
+
