@@ -22,6 +22,17 @@ En esta parte se pueden encontrar los recursos de las charlas y workshops en las
 ## 2017
 - 404Zone - [Esteganografia: Ocultando datos a simple vista](https://docs.google.com/presentation/d/e/2PACX-1vSgI61uYgJ3sZLq7R4n7YDitGv2YvCP9yH6DGyIDYPWzZJbKAkq9a9Oj7DrsVCRDaNJ4eGQT5z8Gqu6/pub?start=false&loop=false&delayms=15000)
 
+# Videos
+
+## 2021
+- OWASP Latam Tour - [Understanding the Same-Origin Policy and CORS](https://www.youtube.com/watch?v=19VjN8U101g)
+- Hackear - [Entrevista Certificación CEH y eJPT](https://www.youtube.com/watch?v=gJIOz9J3p78)
+- Ekoparty: Summer Workshops - [Active Directory: Post Exploitation Attacks](https://www.youtube.com/watch?v=-kyZenxBCJw)
+
+## 2020
+- Ekoparty - [Active Directory: Post Exploitation Attacks](https://www.youtube.com/watch?v=3wXe7pX2b7A)
+- Ekoparty: Lockpickar Space - [Hacking RF for Physical Security](https://www.youtube.com/watch?v=tJIiYSNip00)
+
 # Feedback
 Si viste o participaste de una charla o Workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
 
