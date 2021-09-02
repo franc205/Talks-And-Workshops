@@ -1,5 +1,5 @@
 # Talks And Workshops
-En esta parte se pueden encontrar los recursos de las charlas y workshops en las cuales he participado o dictado.
+En este repositorio se encuentran subidos todos los recursos de las charlas y los workshops los cuales he dictado o participado.
 
 # Slides
 ## 2021
