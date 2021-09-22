@@ -8,6 +8,7 @@ Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
 
 # Slides
 ## 2021
+- BugCon - [Understanding the Same-Origin Policy and CORS](https://docs.google.com/presentation/d/e/2PACX-1vThXEvnaE0CEsTVYMeRJuv6ie7xh4XRiAP5ZJUZ_2H0Qmp4A75s3xovxuZGygCd6URnHoTIyFbhGX5p/pub?start=false&loop=false&delayms=60000)
 - DragonJARCon - [Hacking RF for Physical Security](https://docs.google.com/presentation/d/e/2PACX-1vRJerngjoaRKYCSMDNqtbPDqvEsrOW9A9pObc23P5k6Y4L2Z_1uj5U8lOKCALkoWi--OJH9saXc_Pgc/pub?start=true&loop=false&delayms=15000)
 - DragonJARCon - [Active Directory: Post Exploitation Attacks](https://docs.google.com/presentation/d/e/2PACX-1vS-PZ4BlYouygGxiIhKd2ccLJkG7NDBb0TVBYJwIsOFGOlPnohic0Gbn7HrtDFEyEXYBnLJn-5jUCsT/pub?start=true&loop=false&delayms=15000)
 - OWASP Latam Tour - [Understanding the Same-Origin Policy and CORS](https://docs.google.com/presentation/d/e/2PACX-1vS69esl9eAq1UNJr1gkSTJ24vmyBqdjSAUvr76Fe_2ebwFO1bLUifmOH3rHDNM4kxcthhWRsoWlMdLA/pub?start=true&loop=false&delayms=15000)
