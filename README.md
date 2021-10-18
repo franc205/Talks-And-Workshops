@@ -32,6 +32,9 @@ Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
 # Videos
 
 ## 2021
+- GNUno - [Hacking 101](https://www.youtube.com/watch?v=odvZNsAtqb4)
+- DragonJARCon - [Hacking RF for Physical Security](https://www.youtube.com/watch?v=r_-4614PXoc)
+- DragonJARCon - [Active Directory: Post Exploitation Attacks](https://www.youtube.com/watch?v=3ku3Fmf4ySw)
 - OWASP Latam Tour - [Understanding the Same-Origin Policy and CORS](https://www.youtube.com/watch?v=19VjN8U101g)
 - Hackear - [Entrevista Certificación CEH y eJPT](https://www.youtube.com/watch?v=gJIOz9J3p78)
 - Ekoparty: Summer Workshops - [Active Directory: Post Exploitation Attacks](https://www.youtube.com/watch?v=-kyZenxBCJw)
