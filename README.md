@@ -1,12 +1,15 @@
 # Talks And Workshops
-En este repositorio se encuentran subidos todos los recursos de las charlas y los workshops los cuales he dictado o participado.
-
-# Feedback
-Si viste o participaste de una charla o workshop, me ayudarías mucho respondiendo [este formulario](https://forms.gle/hXFKSgRAAXGmwdPu7) para tener un Feedback (Es una encuesta corta, solo toma 2min)!
-
-Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
+Welcome to this repository! Here you'll find all the resources from the talks and workshops I’ve presented or participated in. 
 
 # Slides
+
+## 2024
+- Ekoparty: Red Team Space - [From Network to Network: Hands-On Pivoting Techniques in Internal Environments](https://docs.google.com/presentation/d/e/2PACX-1vRCDCgSjuVZRK3JAOk_qGZSJxJrXf2_tHorOj6aHjh3AbXjsQO3ZaxciE6T8CPhyO78r3JOPVPWG9-B/pub?start=false&loop=false&delayms=60000)
+- DEFCON: Red Team Village - [From Network to Network: Hands-On Pivoting Techniques in Internal Environments](https://docs.google.com/presentation/d/e/2PACX-1vT0TV7V3thX9FDPmZDmZxgMwX6fUKpXoclZ40Dl_ArfBPNzF0ujvlid8IiXgkn714eTi8P1jf_cHubA/pub?start=false&loop=false&delayms=60000)
+
+## 2023
+- Ekoparty: Red Team Space - [From Network to Network: Hands-On Pivoting Techniques in Internal Environments](https://docs.google.com/presentation/d/e/2PACX-1vTiSME8XCOZrScM58d1n2pQVUy0Ys8b0rCIac1Ik5VF-UOgB6UwL9gemj4pueF2y0qt4_DtB7yGQrfW/pub?start=false&loop=false&delayms=60000)
+
 ## 2021
 - GNUno - [Hacking 101](https://docs.google.com/presentation/d/e/2PACX-1vRQSdfpdioUUE1qo31ZRdfb9ia2GqQEX325c5w09A8Urv8nqrC67gER6G8d6sHA-hES5BRmEaWj4gd9/pub?start=false&loop=false&delayms=60000)
 - BugCon - [Understanding the Same-Origin Policy and CORS](https://docs.google.com/presentation/d/e/2PACX-1vThXEvnaE0CEsTVYMeRJuv6ie7xh4XRiAP5ZJUZ_2H0Qmp4A75s3xovxuZGygCd6URnHoTIyFbhGX5p/pub?start=false&loop=false&delayms=60000)
@@ -47,5 +50,4 @@ Link: [Feedback sobre charlas y workshops](https://forms.gle/hXFKSgRAAXGmwdPu7)
 - Email: franc.c205@gmail.com
 - Twitter: @franc_205
 - Discord: franc205#2787
-- Discord 404Zone: https://discord.gg/CffZX5x
 
